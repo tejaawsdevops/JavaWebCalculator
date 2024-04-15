@@ -23,8 +23,8 @@
 </dependencies>
 <distributionManagement>
   <repository>
-    <id>releases</id>
-        <url>http://52.204.135.48:8081/nexus/content/repositories/releases</url>
+    <id>javaweb-app</id>
+        <url>http://44.211.213.221:8081/nexus/content/repositories/javaweb-app</url>
   </repository>
 </distributionManagement>
 </project>
