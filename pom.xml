@@ -24,7 +24,7 @@
 <distributionManagement>
   <repository>
     <id>javaweb-app</id>
-        <url>http://44.211.213.221:8081/nexus/content/repositories/javaweb-app</url>
+        <url>http://3.95.154.161:8081/nexus/content/repositories/javaweb-app</url>
   </repository>
 </distributionManagement>
 </project>
